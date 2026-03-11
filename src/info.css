@@ -1,0 +1,8 @@
+ .infoBox{
+    margin-top: 3rem;
+     text-align: center;
+ }
+ .container{
+    display: flex;
+    justify-content:center;
+ }
