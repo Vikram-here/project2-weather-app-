@@ -1,16 +1,15 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ 💻 Just Completed a New Small Project!
+Excited to share that I’ve built a Weather Forecasting Web App using React.js and Material UI.
+🔧 Technologies Used:
+• React.js
+• Material UI
+• Free Weather API
+💡 Project Highlights:
+• Real-time weather data fetching using APIs
+• Efficient state management in React
+• Clean and responsive UI with Material UI
+• Focus on improving functionality, efficiency, and user experience
+This project was a great opportunity to apply concepts like API integration and state management in a practical way.
+Looking forward to building more projects and continuously improving my development skills. 🚀
